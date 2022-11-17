@@ -6,4 +6,5 @@ results/
 results_test/
 *.xlsx
 *.yaml
+!.github/**
 !docker-compose.yaml
